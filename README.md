@@ -9,6 +9,10 @@ JavaScript for node and browsers.
 
     npm install pbf
 
+Or use bower
+
+    bower install pbf
+
 ## api
 
 ### `Protobuf(buf, pos)`
